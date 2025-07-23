@@ -51,9 +51,7 @@ groundwater-quality-estimation/
 ├── README.md # Project overview
 └── requirements.txt # Python dependencies
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -74,5 +72,9 @@ Run the notebook or script to test your inputs.
 
 
 Rural water quality monitoring
+
+
 Government/public health agencies
+
+
 Environmental impact studies
