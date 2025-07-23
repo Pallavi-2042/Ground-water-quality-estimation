@@ -1,6 +1,6 @@
 
 
-##💧 Ground Water Quality Estimation using Machine Learning
+💧 Ground Water Quality Estimation using Machine Learning
 
 This project aims to build a machine learning model that accurately predicts the **potability** of groundwater using key chemical indicators such as pH, conductivity, BOD, and nitrate levels. It helps in identifying whether a water sample is **safe (potable)** or **unsafe (non-potable)** for human consumption.
 
